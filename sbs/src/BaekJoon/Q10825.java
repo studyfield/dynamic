@@ -1,3 +1,5 @@
+package BaekJoon;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
@@ -6,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Main {
+public class Q10825 {
 
 	public static void main(String[] args) throws IOException {
 		
